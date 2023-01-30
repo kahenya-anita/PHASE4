@@ -1,0 +1,90 @@
+
+.bg-img{
+
+  background-image:url('https://images.unsplash.com/photo-1505691723518-36a5ac3be353?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60');
+  min-height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.container{
+    position: absolute;
+    margin:0;
+    width: 100%;
+    
+} 
+
+.txt{
+  text-align: left;
+  font-size: 40;
+  color:white;
+
+}
+
+.txt-2{
+  text-align: left;
+  color:#ff4500
+
+}
+
+.sub{
+  text-align: left;
+  margin-top: 5vh;
+  color:white;
+  margin-bottom: 2px;
+
+}
+
+.home-tab {
+  padding: 5vh;
+  padding-right: 7vw;
+  border-radius: 60px 0;
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18vh;
+  background-color: #4b2004a1;
+}
+
+.home-tab button, .nav-icon button{
+  background-color: orangered;
+}
+
+.nav-color {
+  background-color: #4b2004a1;
+  height: 10vh;
+  color: white;
+
+}
+
+.nav-icon .icon {
+  margin-right: px;
+  margin-right: 4vw;
+}
+
+.nav-icon {
+  display: flex;
+  
+}
+
+.nav-icons {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color:white;
+}
+
+
+.navbar-nav ul li{
+  display: flex;
+  float:left;
+}
+
+.logout {
+  background-color: orangered;
+  padding: 5px 10px;
+  border-radius: 10px 0;
+}

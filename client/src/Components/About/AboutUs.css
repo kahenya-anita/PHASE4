@@ -1,0 +1,75 @@
+.image{
+    background-color:beige;
+    }
+    .head{
+        text-align: center;
+        color:orange;
+        border-radius: 23px;
+        padding-top: 4vh;
+    }
+    .span{
+        
+        color:black;
+    }
+    
+    .team{
+    
+        display:flex;
+        justify-content: center;
+        position: sticky;
+        
+    
+    }
+    #img{
+        margin-left: 8px;
+        margin-right: 12px;
+    }
+    .team1{
+        text-align:center;
+    }
+    .names{
+        text-align: center;
+    }
+    
+    
+    
+    
+      /* Create two equal columns that float next to each other */
+      .cards {
+        float: left;
+        width: 45%;
+        padding: 40px;
+        padding-left:70px;
+        padding-right: 70px;
+        height: 405px;
+        margin:30px;
+        margin-right:30px;
+        margin-bottom: 70px;
+        background-color:white;
+        line-height:2;
+        position: sticky;
+      }
+    
+      .team p {
+        margin-left: 4vw;
+      }
+    
+      .card2 {
+        float: left;
+        width: 45%;
+        padding: 40px;
+        padding-left:70px;
+        padding-right: 70px;
+        height: 405px;
+        margin:30px;
+        margin-right:30px;
+        margin-bottom: 70px;
+        background-color:white;
+        line-height:2;
+        position: a;
+      }
+    .card ul li{
+        list-style-type:square;
+    }
+    
+              
